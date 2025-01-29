@@ -1,0 +1,12 @@
+# Java / IntelliJ
+.idea/
+*.iml
+*.class
+target/
+out/
+
+# Logs
+*.log
+
+# Docker
+*.env
